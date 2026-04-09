@@ -7,4 +7,4 @@ _BedrockSharp is a Minecraft Bedrock Edition server software organization that f
 - Learn C# at [Csharp Learn](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 - Join our Discord Server for Server Development and Help!
 
-https://discord.gg/1491078516056395910
+https://discord.gg/EybSC3JY
