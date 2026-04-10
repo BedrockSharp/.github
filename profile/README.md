@@ -1,10 +1,7 @@
 # BedrockSharp 
 
-_BedrockSharp is a Minecraft Bedrock Edition server software organization that focuses on IMPROVING THE MINECRAFT ecosystem with a faster and more secure software!_
+_BedrockSharp is a lightweight, super fast Minecraft: Bedrock Edition server software written in C#._
 
-**Quickstart**
-
-- Learn C# at [Csharp Learn](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
-- Join our Discord Server for Server Development and Help!
-
-https://discord.gg/EybSC3JY
+### Quick Start
+- Learn C# from [here.](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+- Join our [Discord server.](https://discord.gg/EybSC3JY)
